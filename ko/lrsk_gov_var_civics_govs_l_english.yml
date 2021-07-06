@@ -44,10 +44,13 @@ lrsk_gov_var_civic_utilitarian_planning_desc: "정부는 자원 배분을 합리
 
 #civic_tooltip_lrsk_gov_var_civic_utilitarian_planning_effects:0 "인구의 식량 유지비: §G-5%§!\n함선, 건물그리고 구역 유지비: §G-2.5%§!"
 
-lrsk_gov_var_civic_siege_mentality: ""
-lrsk_gov_var_civic_siege_mentality_desc: ""
-lrsk_gov_var_civic_cult_of_personality: ""
-lrsk_gov_var_civic_cult_of_personality_desc: ""
+lrsk_gov_var_civic_siege_mentality: "공성 정신"
+lrsk_gov_var_civic_siege_mentality_desc: "정부의 방위 정책은 국민의 적대적인 외부인에 대한 우려와 공격적인 전쟁에 대한 열정 부족으로 인해 요새화에 중점을 둡니다."
+
+#civic_tooltip_lrsk_gov_var_civic_utilitarian_planning_effects:0 "Pop Food Upkeep: §G-5%§!\nShip, Building, and District Upkeep: §G-2.5%§!"
+
+lrsk_gov_var_civic_cult_of_personality: "개인주의 문화"
+lrsk_gov_var_civic_cult_of_personality_desc: "통치자는 존경받을 가치가있는 특별하고 강력하고 영웅적인 인물으로 간주됩니다."
 lrsk_gov_var_civic_universal_sovereignty: ""
 lrsk_gov_var_civic_universal_sovereignty_desc: ""
 
