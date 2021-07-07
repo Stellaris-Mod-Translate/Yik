@@ -59,6 +59,9 @@ lrsk_gov_var_civic_universal_sovereignty_desc: "지도자는 모든 형태의 �
 
 #civic_tooltip_lrsk_gov_var_civic_universal_sovereignty_effects:0 "종속국 통합에 드는 영향력 비용이: §G-10%§!만큼 줄어듭니다.\n종속국 통합에 드는 시간이: §G-20%§!줄어듭니다."
 
+
+#civic_tooltip_lrsk_gov_var_civic_universal_sovereignty_effects:0 "Subject Integration Influence Cost: §G-10%§!\nSubject Integration Time: §G-20%§!"
+
 lrsk_gov_var_civic_workers_councils: "노동자 위원회"
 lrsk_gov_var_civic_workers_councils_desc: "노동조합, 민주적 작업장 및 협동조합은 시민 사회의 필수적인 부분이며 정부의 필수적인 부분입니다."
 civic_tooltip_lrsk_gov_var_civic_workers_councils_effects: "$WORKERS$과 $SPECIALISTS$ 들의 £political_power£ §YPolitical Power§!가 §Y50%§! 증가하고 각각§Y12.5%§!씩 증가합니다./n( §YDecent Conditions§! 생활수준과, 종족 취급에 따라 달라질 수 있습니다)./n/n"
@@ -75,10 +78,10 @@ lrsk_gov_var_civic_chivalry_aristo_desc: ""
 civic_tooltip_lrsk_gov_var_civic_chivalry_effects: "군인을 강화하고 £job_lrsk_gov_var_job_knight£ 를 추가해주는 £building£ §YWarrior Halls§!을 지을수 있게 합니다./n§Y$job_lrsk_gov_var_job_knight_plural$§!.\n\n$job_lrsk_gov_var_job_knight_effect_desc$\n"
 lrsk_gov_var_civic_lifelong_learning: "평생을 거친 학습"
 lrsk_gov_var_civic_lifelong_learning_desc: "이 사회는 공교육을 매우 소중히 여겨 배움과 발전의 기회가 시민들의 삶 전반에 걸쳐 이용될 수 있도록 합니다./n"
-lrsk_gov_var_civic_institutionalized_collectivism: ""
-lrsk_gov_var_civic_institutionalized_collectivism_desc: ""
-lrsk_gov_var_civic_direct_revelation: ""
-lrsk_gov_var_civic_direct_revelation_desc: ""
+lrsk_gov_var_civic_institutionalized_collectivism: "제도화된 집단주의"
+lrsk_gov_var_civic_institutionalized_collectivism_desc: "정부는 경제 협력과 공정성의 기준을 확보하여 기본적인 필요를 충족시키기 위해 산업과 생산라인을 제어합니다."
+lrsk_gov_var_civic_direct_revelation: "직접 계시"
+lrsk_gov_var_civic_direct_revelation_desc: "이 사회의 종교문화는 개인적으로 겪은 신성한 경험으로부터 오는 통찰력을 중요시한다."
 civic_tooltip_lrsk_gov_var_civic_direct_revelation_effects: ""
 lrsk_gov_var_civic_royal_absolutism: ""
 lrsk_gov_var_civic_royal_absolutism_desc: ""
