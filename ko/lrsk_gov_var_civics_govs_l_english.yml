@@ -47,14 +47,17 @@ lrsk_gov_var_civic_utilitarian_planning_desc: "정부는 자원 배분을 합리
 lrsk_gov_var_civic_siege_mentality: "공성 정신"
 lrsk_gov_var_civic_siege_mentality_desc: "정부의 방위 정책은 국민의 적대적인 외부인에 대한 우려와 공격적인 전쟁에 대한 열정 부족으로 인해 요새화에 중점을 둡니다."
 
+#civic_tooltip_lrsk_gov_var_civic_utilitarian_planning_effects:0 "Pop Food Upkeep: §G-5%§!\nShip, Building, and District Upkeep: §G-2.5%§!"
+
+
 #civic_tooltip_lrsk_gov_var_civic_utilitarian_planning_effects:0 "인구 식량 유지비: §G-5%§!\n함선, 건물, 구역 유지비: §G-2.5%§!"
 
 lrsk_gov_var_civic_cult_of_personality: "개인주의 문화"
 lrsk_gov_var_civic_cult_of_personality_desc: "통치자는 존경받을 가치가있는 특별하고 강력하고 영웅적인 인물으로 간주됩니다."
 lrsk_gov_var_civic_universal_sovereignty: "주권"
-lrsk_gov_var_civic_universal_sovereignty_desc: ""
+lrsk_gov_var_civic_universal_sovereignty_desc: "지도자는 모든 형태의 자아가 있는 생명체를 포용하는 이념을 갖습니다.. 아니. 언젠가는 가지게 될겁니다."
 
-#civic_tooltip_lrsk_gov_var_civic_universal_sovereignty_effects:0 "Subject Integration Influence Cost: §G-10%§!\nSubject Integration Time: §G-20%§!"
+#civic_tooltip_lrsk_gov_var_civic_universal_sovereignty_effects:0 "종속국 통합에 드는 영향력 비용이: §G-10%§!만큼 줄어듭니다.\n종속국 통합에 드는 시간이: §G-20%§!줄어듭니다."
 
 lrsk_gov_var_civic_workers_councils: "노동자 위원회"
 lrsk_gov_var_civic_workers_councils_desc: "노동조합, 민주적 작업장 및 협동조합은 시민 사회의 필수적인 부분이며 정부의 필수적인 부분입니다."
@@ -69,9 +72,9 @@ lrsk_gov_var_civic_chivalry: "기사도"
 lrsk_gov_var_civic_chivalry_desc: "지배 계급 문화는 이상적인 무력과 명예로운 행동으로 정의됩니다."
 lrsk_gov_var_civic_chivalry_aristo: ""
 lrsk_gov_var_civic_chivalry_aristo_desc: ""
-civic_tooltip_lrsk_gov_var_civic_chivalry_effects: ""
-lrsk_gov_var_civic_lifelong_learning: ""
-lrsk_gov_var_civic_lifelong_learning_desc: ""
+civic_tooltip_lrsk_gov_var_civic_chivalry_effects: "군인을 강화하고 £job_lrsk_gov_var_job_knight£ 를 추가해주는 £building£ §YWarrior Halls§!을 지을수 있게 합니다./n§Y$job_lrsk_gov_var_job_knight_plural$§!.\n\n$job_lrsk_gov_var_job_knight_effect_desc$\n"
+lrsk_gov_var_civic_lifelong_learning: "평생을 거친 학습"
+lrsk_gov_var_civic_lifelong_learning_desc: "이 사회는 공교육을 매우 소중히 여겨 배움과 발전의 기회가 시민들의 삶 전반에 걸쳐 이용될 수 있도록 합니다./n"
 lrsk_gov_var_civic_institutionalized_collectivism: ""
 lrsk_gov_var_civic_institutionalized_collectivism_desc: ""
 lrsk_gov_var_civic_direct_revelation: ""
