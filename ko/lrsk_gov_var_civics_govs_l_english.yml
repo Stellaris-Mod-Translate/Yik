@@ -99,21 +99,21 @@ lrsk_gov_var_civic_automated_indolence_desc: "산업 혁명 초기에 이 사회
 lrsk_gov_var_civic_tooltip_oli_dic: "§Y과두정치§! 나 §Y독재정§! 통치 체제 가지고 있음"
 lrsk_gov_var_civic_tooltip_dem_dic: "§Y민주정§! 나 §Y독재정§! 통치체제 가지고 있음"
 lrsk_gov_var_civic_tooltip_not_xenophile_or_not_militarist: " §Y외계인 선호§! 도 전혀 아니며§Y군국주의§! 도 전혀 아님"
-lrsk_gov_var_civic_tooltip_not_egalitarian_pacifist: ""
+lrsk_gov_var_civic_tooltip_not_egalitarian_pacifist: "§Y평화주의자§!도, §Y평등주의도§! 전혀 아님."
 
 ## Test Civics (values should never appear to players) 
 
 lrsk_gov_var_civic_test_1: ""
-lrsk_gov_var_civic_test_1_desc: ""
+lrsk_gov_var_civic_test_1_desc: "§R에러!!§!: 이 문구가 뜨면 모드 개발자에게 문의 주세요."
 lrsk_gov_var_civic_test_2: ""
 lrsk_gov_var_civic_test_2_desc: ""
 
 ### Hive Mind
 
-lrsk_gov_var_civic_hive_planetmind_creativity: ""
-lrsk_gov_var_civic_hive_planetmind_creativity_desc: ""
-civic_tooltip_lrsk_gov_var_civic_hive_planetmind_creativity_desc_effects: ""
-lrsk_gov_var_civic_hive_caste_quickening: ""
+lrsk_gov_var_civic_hive_planetmind_creativity: "행성지능적 창의성"
+lrsk_gov_var_civic_hive_planetmind_creativity_desc: "군체의식의 이해 안에 있는 모든 행성은 스스로 반자동 설계를 할 수 있음."
+civic_tooltip_lrsk_gov_var_civic_hive_planetmind_creativity_desc_effects: "£amenities_no_happiness£ §Y$PLANET_AMENITIES_TITLE$§!와 £crime£ §Y$PLANET_CRIME_NO_HAPPINESS_TITLE$§!를 올려주는  £building£ §Y행성지능 구조물§!을 지을수 있게 해줍니다.£job_lrsk_gov_var_job_planetmind_overseer£ §Y$job_lrsk_gov_var_job_planetmind_overseer_plural$§! 또한 더해줍니다. \n\n$job_lrsk_gov_var_job_planetmind_overseer_effect_desc$.\n\n"
+lrsk_gov_var_civic_hive_caste_quickening: "카스트제도 가속화"
 lrsk_gov_var_civic_hive_caste_quickening_desc: ""
 lrsk_gov_var_civic_hive_builder_caste: ""
 lrsk_gov_var_civic_hive_builder_caste_desc: ""
