@@ -153,8 +153,8 @@ lrsk_gov_var_civic_hive_vigorous_introversion_desc: "군체의식은 드론의 �
 ### Machine Intelligence
 
 lrsk_gov_var_civic_machine_distributed_planning_systems: "분산 계획 시스템"
-lrsk_gov_var_civic_machine_distributed_planning_systems_desc: ""
-civic_tooltip_lrsk_gov_var_civic_machine_distributed_planning_systems_desc_effects: ""
+lrsk_gov_var_civic_machine_distributed_planning_systems_desc: "한때 광대한 제국의 공공 서비스 행정 프로그램이었던 기계지능은 지역 요구를 충족하기 위해 지역 행정 서브루틴을 생성하는 기능을 유지합니다."
+civic_tooltip_lrsk_gov_var_civic_machine_distributed_planning_systems_desc_effects: "일시적으로 £job_lrsk_gov_var_job_regional_coordinator£ §Y$job_lrsk_gov_var_job_regional_coordinator_plural$§를 추가하는 £decision£ §Y반복 감사(검증) 실행§! 시행령을 사용할 수 있게 됩니다.\n\n$job_lrsk_gov_var_job_regional_coordinator_effect_desc$\n\n1년 후 감사가 종료되고 행성 생산량에 대한 장기 모디파이어가 적용됩니다.\n\n"
 lrsk_gov_var_civic_machine_selfimprovement_heuristics: ""
 lrsk_gov_var_civic_machine_selfimprovement_heuristics_desc: ""
 lrsk_gov_var_civic_machine_reflective_polymorphism: ""
