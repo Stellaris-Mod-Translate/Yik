@@ -176,11 +176,11 @@ lrsk_gov_var_civic_machine_astroexploration_mainframe_desc: "이 기계지능은
 lrsk_gov_var_civic_machine_reciprocal_planning_routines: "상호계획 루틴"
 lrsk_gov_var_civic_machine_reciprocal_planning_routines_desc: "다양한 식민지의 운영에서 발견된 모범 사례를 나머지 식민지에 신속하게 전파함으로써 방대한 보유 공간을 유지하는 데 따른 전산 과부화를 크게 줄여 기계지능을 창의적인 작업에 더욱 활용할 수 있게 되었습니다."
 lrsk_gov_var_civic_machine_geosurvey_heuristics: "지구조사휴리스틱스"
-lrsk_gov_var_civic_machine_geosurvey_heuristics_desc: ""
-lrsk_gov_var_civic_machine_exploitation_algorithms: ""
-lrsk_gov_var_civic_machine_exploitation_algorithms_desc: ""
-lrsk_gov_var_civic_machine_optimized_expansion: ""
-lrsk_gov_var_civic_machine_optimized_expansion_desc: ""
+lrsk_gov_var_civic_machine_geosurvey_heuristics_desc: "토지개발, 건축 조사 그리고 토목공사를 위한 환경 구성 작업은 기계지능의 제작자에게 필수적인 기능 중 하나였으며, 영역을 더 잘 활용하기 위해 현재 구축되고 있는 디지털 유산입니다."
+lrsk_gov_var_civic_machine_exploitation_algorithms: "착취 알고리즘"
+lrsk_gov_var_civic_machine_exploitation_algorithms_desc: "기계지능은 대상에게서 착취 가능한 생산량을 계산하기위한 놀랍도록 정확한 방법을 개발했습니다."
+lrsk_gov_var_civic_machine_optimized_expansion: "확장 최적화"
+lrsk_gov_var_civic_machine_optimized_expansion_desc: "이 기계지능을 발명한 문명은 그토록 효율적으로 확장하기 원했지만, 그렇게 되지 못했습니다."
 
 ### Megacorp
 
