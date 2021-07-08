@@ -30,15 +30,15 @@
 
 ### Singleton
 
-lrsk_gov_var_civic_elected_clergy: ""
-lrsk_gov_var_civic_elected_clergy_desc: ""
-civic_tooltip_lrsk_gov_var_civic_elected_clergy_effects: ""
+lrsk_gov_var_civic_elected_clergy: "선출된 성직자"
+lrsk_gov_var_civic_elected_clergy_desc: "이 사회의 종교에서 지역 사제는 종교단체 내에서 선출됩니다. 교리는 다양하며 여러 해석에 개방적입니다."
+civic_tooltip_lrsk_gov_var_civic_elected_clergy_effects: "행성에 §Y40§! £pop£ 인구당 §Y1§! £job_lrsk_gov_var_job_pastor£ §Y$job_lrsk_gov_var_job_pastor$ Job§!를 줍니다./n$job_lrsk_gov_var_job_pastor_effect_desc$\n\n"
 lrsk_gov_var_civic_ascetic_virtues: "금욕은 미덕이다"
 lrsk_gov_var_civic_ascetic_virtues_desc: "이 문화의 종교적 신념은 엄격한 식이요법과 운동을 요구함으로 정신만큼이나 몸을 돕습니다."
 lrsk_gov_var_civic_republicanism: "공화주의"
 lrsk_gov_var_civic_republicanism_desc: "이 사회는 공공의 선에 봉사하는 좋은 인격을 가진 사람들에게 가장 큰 미덕이 있다고 믿습니다."
-lrsk_gov_var_civic_republicanism_oli: ""
-lrsk_gov_var_civic_republicanism_oli_desc: ""
+lrsk_gov_var_civic_republicanism_oli: "$lrsk_gov_var_civic_republicanism$"
+lrsk_gov_var_civic_republicanism_oli_desc: "$lrsk_gov_var_civic_republicanism_desc$"
 lrsk_gov_var_civic_utilitarian_planning: "공리주의 계획"
 lrsk_gov_var_civic_utilitarian_planning_desc: "정부는 자원 배분을 합리적으로 계산하여 최대의 사람들이게 최대의 이익을 주는것을 목표로 합니다."
 
@@ -73,8 +73,8 @@ lrsk_gov_var_civic_business_lobby: "예산 절약"
 lrsk_gov_var_civic_business_lobby_desc: "이 사회는 쓰래기 줄이기와 운영 효율성을 그 무엇보다 중시한다."
 lrsk_gov_var_civic_chivalry: "기사도"
 lrsk_gov_var_civic_chivalry_desc: "지배 계급 문화는 이상적인 무력과 명예로운 행동으로 정의됩니다."
-lrsk_gov_var_civic_chivalry_aristo: ""
-lrsk_gov_var_civic_chivalry_aristo_desc: ""
+lrsk_gov_var_civic_chivalry_aristo: "$lrsk_gov_var_civic_chivalry$"
+lrsk_gov_var_civic_chivalry_aristo_desc: "$lrsk_gov_var_civic_chivalry_desc$"
 civic_tooltip_lrsk_gov_var_civic_chivalry_effects: "군인을 강화하고 £job_lrsk_gov_var_job_knight£ 를 추가해주는 £building£ §YWarrior Halls§!을 지을수 있게 합니다./n§Y$job_lrsk_gov_var_job_knight_plural$§!.\n\n$job_lrsk_gov_var_job_knight_effect_desc$\n"
 lrsk_gov_var_civic_lifelong_learning: "평생을 거친 학습"
 lrsk_gov_var_civic_lifelong_learning_desc: "이 사회는 공교육을 매우 소중히 여겨 배움과 발전의 기회가 시민들의 삶 전반에 걸쳐 이용될 수 있도록 합니다./n"
@@ -103,10 +103,10 @@ lrsk_gov_var_civic_tooltip_not_egalitarian_pacifist: "§Y평화주의자§!도, 
 
 ## Test Civics (values should never appear to players) 
 
-lrsk_gov_var_civic_test_1: ""
+lrsk_gov_var_civic_test_1: "Test Civic 1"
 lrsk_gov_var_civic_test_1_desc: "§R에러!!§!: 이 문구가 뜨면 모드 개발자에게 문의 주세요."
-lrsk_gov_var_civic_test_2: ""
-lrsk_gov_var_civic_test_2_desc: ""
+lrsk_gov_var_civic_test_2: "Test Civic 2"
+lrsk_gov_var_civic_test_2_desc: "§R에러§!: 이 글귀가 떠서는 안됩니다. 모드 제작자에게 문의주세요"
 
 ### Hive Mind
 
@@ -127,7 +127,7 @@ lrsk_gov_var_civic_hive_boundless_spite: "무한한 악의"
 lrsk_gov_var_civic_hive_boundless_spite_desc: "군체의식은 그 혐오의 극히 일부만 생각할 수 있어도 공포와 혐오로 정신을 서서히 미치게 만들정도로 사악하다."
 lrsk_gov_var_civic_hive_void_affinity: "공허 친화"
 lrsk_gov_var_civic_hive_void_affinity_desc: "영겁의 시간동안 계속된 행성에 대한 생각때문에 군체의식은 별의 풍요에 몹시 매료되었다."
-lrsk_gov_var_civic_hive_hoarder: ""
+lrsk_gov_var_civic_hive_hoarder: "무리어미"
 lrsk_gov_var_civic_hive_hoarder_desc: "군체의식은 항상 물질적 부에 허덕이고 있으며, 드론은 이를 채우는데에 큰 열정을 가지고 있습니다."
 lrsk_gov_var_civic_hive_eusocial_rhythm: "군체의 리듬"
 lrsk_gov_var_civic_hive_eusocial_rhythm_desc: "특정 시설에 생산된 모든드론은 지역 협력 무리에서 사이오닉으로 함께 동기화되어 행동을 조화시켜 반복작업에 들어가는 비용을 줄입니다."
@@ -152,7 +152,7 @@ lrsk_gov_var_civic_hive_vigorous_introversion_desc: "군체의식은 드론의 �
 
 ### Machine Intelligence
 
-lrsk_gov_var_civic_machine_distributed_planning_systems: ""
+lrsk_gov_var_civic_machine_distributed_planning_systems: "분산 계획 시스템"
 lrsk_gov_var_civic_machine_distributed_planning_systems_desc: ""
 civic_tooltip_lrsk_gov_var_civic_machine_distributed_planning_systems_desc_effects: ""
 lrsk_gov_var_civic_machine_selfimprovement_heuristics: ""
