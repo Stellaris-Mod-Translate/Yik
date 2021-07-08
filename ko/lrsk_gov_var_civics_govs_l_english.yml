@@ -184,9 +184,9 @@ lrsk_gov_var_civic_machine_optimized_expansion_desc: "이 기계지능을 발명
 
 ### Megacorp
 
-LRSK_GVP_MEGACORP_SCALING_COMMON: ""
-lrsk_gov_var_civic_mc_sci_mgnt: ""
-lrsk_gov_var_civic_mc_sci_mgnt_desc: ""
+LRSK_GVP_MEGACORP_SCALING_COMMON: "§$BRANCH_OFFICE_VALUE$G증가§! £pop£ 행성 인구 비율에 따라 다음과 같이 증가함"
+lrsk_gov_var_civic_mc_sci_mgnt: "과학적 관리"
+lrsk_gov_var_civic_mc_sci_mgnt_desc: "이 사업은 도구, 작업 공간, 물리적 동작, 업무 리듬, 요람에서 무덤까지 종업원 생활의 모든 측면을 관리하는 정확하고 경험적으로 테스트 된 관리 기술을 통해 성장했습니다."
 civic_tooltip_lrsk_gov_var_civic_mc_sci_mgnt_effects: ""
 lrsk_gov_var_civic_mc_edu_corp: ""
 lrsk_gov_var_civic_mc_edu_corp_desc: ""
