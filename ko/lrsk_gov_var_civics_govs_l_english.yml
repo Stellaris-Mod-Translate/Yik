@@ -25,10 +25,10 @@
 #l_spanish:
 
 
-사회특성
-
-
 ### Singleton
+
+
+사회제도
 
 lrsk_gov_var_civic_elected_clergy: "선출된 성직자"
 lrsk_gov_var_civic_elected_clergy_desc: "이 사회의 종교에서 지역 사제는 종교단체 내에서 선출됩니다. 교리는 다양하며 여러 해석에 개방적입니다."
