@@ -28,7 +28,7 @@
 ### Singleton
 
 
-사회제도
+# Civics
 
 lrsk_gov_var_civic_elected_clergy: "선출된 성직자"
 lrsk_gov_var_civic_elected_clergy_desc: "이 사회의 종교에서 지역 사제는 종교단체 내에서 선출됩니다. 교리는 다양하며 여러 해석에 개방적입니다."
@@ -188,10 +188,10 @@ LRSK_GVP_MEGACORP_SCALING_COMMON: "§$BRANCH_OFFICE_VALUE$G증가§! £pop£ 행
 lrsk_gov_var_civic_mc_sci_mgnt: "과학적 관리"
 lrsk_gov_var_civic_mc_sci_mgnt_desc: "이 사업은 도구, 작업 공간, 물리적 동작, 업무 리듬, 요람에서 무덤까지 종업원 생활의 모든 측면을 관리하는 정확하고 경험적으로 테스트 된 관리 기술을 통해 성장했습니다."
 civic_tooltip_lrsk_gov_var_civic_mc_sci_mgnt_effects: ""
-lrsk_gov_var_civic_mc_edu_corp: ""
+lrsk_gov_var_civic_mc_edu_corp: "교육 협회"
 lrsk_gov_var_civic_mc_edu_corp_desc: ""
 civic_tooltip_lrsk_gov_var_civic_mc_edu_corp_effects: ""
-lrsk_gov_var_civic_mc_gig_economy: ""
+lrsk_gov_var_civic_mc_gig_economy: "긱 경제학"
 lrsk_gov_var_civic_mc_gig_economy_desc: ""
 civic_tooltip_lrsk_gov_var_civic_mc_gig_economy_effects: ""
 lrsk_gov_var_civic_mc_chart_corp_board: ""
