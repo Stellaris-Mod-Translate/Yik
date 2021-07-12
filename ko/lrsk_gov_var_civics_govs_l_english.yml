@@ -28,6 +28,9 @@
 ### Singleton
 
 
+# Civics
+
+
 # 사회제도
 
 lrsk_gov_var_civic_elected_clergy: "선출된 성직자"
@@ -201,15 +204,15 @@ lrsk_gov_var_civic_mc_chartered_company: ""
 lrsk_gov_var_civic_mc_chartered_company_desc: ""
 lrsk_gov_var_civic_mc_controlling_interest: ""
 lrsk_gov_var_civic_mc_controlling_interest_desc: ""
-lrsk_gov_var_civic_mc_vertical_integration: ""
-lrsk_gov_var_civic_mc_vertical_integration_desc: ""
-lrsk_gov_var_civic_mc_workers_councils: ""
-lrsk_gov_var_civic_mc_workers_councils_desc: ""
+lrsk_gov_var_civic_mc_vertical_integration: "수직적 통합"
+lrsk_gov_var_civic_mc_vertical_integration_desc: "이 거대기업은 다루는 원자재부터 판매까지 생산과 공급 체인 전부를 보유하고 관리합니다."
+lrsk_gov_var_civic_mc_workers_councils: "직원 소유 협동 기업"
+lrsk_gov_var_civic_mc_workers_councils_desc: "모든 직원은 기업의 공동 소유주이기도 하며 내부 정책과 지도자 선정에 영향력을 행사합니다. 이로써 그들은 회사 내에 진정한 지분을 가지게 됩니다."
 civic_tooltip_lrsk_gov_var_civic_mc_workers_councils_effects: ""
-lrsk_gov_var_civic_mc_casino_mystic: ""
-lrsk_gov_var_civic_mc_casino_mystic_desc: ""
+lrsk_gov_var_civic_mc_casino_mystic: "카지노 신비주의"
+lrsk_gov_var_civic_mc_casino_mystic_desc: "카지노. 경마장 등 도박을 전문으로 하는 이 거대기업은 악랄하고 효과적인 흥보수단으로 사람들에게 행운, 운명과 위험 감수를 가치로 삼는 믿음을 장려하였습니다. 이는 이후 광범위한 문화적 가치가 되었습니다."
 civic_tooltip_lrsk_gov_var_civic_mc_casino_mystic_effects: ""
-lrsk_gov_var_civic_mc_vacay_planning: ""
+lrsk_gov_var_civic_mc_vacay_planning: "휴가 계획"
 lrsk_gov_var_civic_mc_vacay_planning_desc: ""
 civic_tooltip_lrsk_gov_var_civic_mc_vacay_planning_effects: ""
 lrsk_gov_var_civic_mc_heritage_trust: ""
