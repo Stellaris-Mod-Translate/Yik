@@ -1,0 +1,606 @@
+﻿l_english:
+
+
+#### CUSTOM/MODDED
+
+
+### Socialist Governments
+
+
+# Popular Kingdom
+
+format.lrsk_imp_pop.1: ""
+format.lrsk_imp_pop.2: ""
+format.lrsk_imp_pop.3: ""
+format.lrsk_imp_pop.4: ""
+
+#Proletarian Dictatorship
+
+
+#Insurrectionary Lineage
+
+format.lrsk_pdr.1: ""
+format.lrsk_pdr.2: ""
+format.lrsk_pdr.3: ""
+
+#Social Bureaucracy
+
+
+#Socialist Plenary
+
+
+#Automated World-Commune
+
+format.lrsk_oli_soc.1: ""
+format.lrsk_oli_soc.2: ""
+format.lrsk_oli_soc.3: ""
+format.lrsk_oli_soc.4: ""
+format.lrsk_oli_soc.5: ""
+
+#Social Democracy
+
+
+#Communal Democracy
+
+format.lrsk_dem_soc.1: ""
+format.lrsk_dem_soc.2: ""
+format.lrsk_dem_soc.3: ""
+format.lrsk_dem_soc.4: ""
+format.lrsk_dem_soc.5: ""
+
+# Syndicalism
+
+
+#format.lrsk_syndicalist.1: "<lrsk_labor_per_desc> [This.GetSpeciesAdj] <lrsk_labor_per>' <lrsk_labor_org>"
+
+
+#format.lrsk_syndicalist.2: "<lrsk_labor_type> <lrsk_labor_per>' <lrsk_labor_org> of [This.Capital.System.GetName]"
+
+
+#format.lrsk_syndicalist.3: "<lrsk_labor_type> <lrsk_labor_per>' <lrsk_labor_org> of [This.Capital.GetName]"
+
+format.lrsk_syndicalist.1: ""
+format.lrsk_syndicalist.2: ""
+format.lrsk_syndicalist.3: ""
+format.lrsk_syndicalist.4: ""
+
+### Capitalist Governments
+
+
+#Empire of Liberty
+
+format.lrsk_imp_cap.1: ""
+format.lrsk_imp_cap.2: ""
+format.lrsk_imp_cap.3: ""
+format.lrsk_imp_cap.4: ""
+format.lrsk_imp_cap.5: ""
+
+#Enterprise Authority
+
+format.lrsk_dic_cap.1: ""
+format.lrsk_dic_cap.2: ""
+format.lrsk_dic_cap.3: ""
+format.lrsk_dic_cap.4: ""
+format.lrsk_dic_cap.5: ""
+
+#Entrepreneurial Council
+
+
+#Enterprise Junta
+
+format.lrsk_oli_cap.1: ""
+format.lrsk_oli_cap.2: ""
+format.lrsk_oli_cap.3: ""
+format.lrsk_oli_cap.4: ""
+format.lrsk_oli_cap.5: ""
+
+#Enterprise Society
+
+format.lrsk_dem_cap.1: ""
+format.lrsk_dem_cap.2: ""
+format.lrsk_dem_cap.3: ""
+format.lrsk_dem_cap.4: ""
+format.lrsk_dem_cap.5: ""
+
+## Special
+
+
+# Merchant Principality
+
+format.lrsk_merch_prin.1: ""
+format.lrsk_merch_prin.2: ""
+format.lrsk_merch_prin.3: ""
+format.lrsk_merch_prin.4: ""
+format.lrsk_merch_prin.5: ""
+
+## Libertarian-ish
+
+
+#Libertarian Freehold
+
+
+#Anarcho-Capitalism
+
+
+#Corporate Neofuedalism
+
+format.lrsk_libertarian.1: ""
+format.lrsk_libertarian.2: ""
+format.lrsk_libertarian.3: ""
+
+## New Megacorporation-Types
+
+
+# Rationalist-Managerial Firms
+
+
+# format.lrsk_rmf_corp.1: "<lrsk_rmf_desc> [This.GetSpeciesAdj] <lrsk_stellar_filler_desc><lrsk_rmf_corp><lrsk_corp_bits>"
+
+
+# format.lrsk_rmf_corp.2: "<lrsk_rmf_desc> <lrsk_stellar_filler_desc><lrsk_rmf_corp> of [This.Capital.System.GetName]<lrsk_corp_bits>"
+
+
+# format.lrsk_rmf_corp.3: "<lrsk_rmf_desc> <lrsk_stellar_filler_desc><lrsk_rmf_corp> of [This.Capital.GetName]<lrsk_corp_bits>"
+
+format.lrsk_rmf_corp.1: ""
+format.lrsk_rmf_corp.2: ""
+format.lrsk_rmf_corp.3: ""
+
+# Innovation Initiatives
+
+
+#format.lrsk_inno_corp.1: "[This.GetSpeciesAdj] <lrsk_inno_desc> <lrsk_inno_type> <lrsk_inno_bits><lrsk_inno_corp>"
+
+
+#format.lrsk_inno_corp.2: "<lrsk_inno_desc> <lrsk_inno_type> <lrsk_inno_bits><lrsk_inno_corp> of [This.Capital.System.GetName]"
+
+
+#format.lrsk_inno_corp.3: "<lrsk_inno_desc> <lrsk_inno_type> <lrsk_inno_bits><lrsk_inno_corp> of [This.Capital.GetName]"
+
+format.lrsk_inno_corp.1: ""
+format.lrsk_inno_corp.2: ""
+format.lrsk_inno_corp.3: ""
+
+# PMCs
+
+format.lrsk_pmc_corp.1: ""
+format.lrsk_pmc_corp.2: ""
+format.lrsk_pmc_corp.3: ""
+
+# Megachurches
+
+format.lrsk_megachurch.1: ""
+format.lrsk_megachurch.2: ""
+format.lrsk_megachurch.3: ""
+
+## Crusading Company
+
+format.lrsk_crus_comp.1: ""
+format.lrsk_crus_comp.2: ""
+format.lrsk_crus_comp.3: ""
+
+### French Revolution Inspired Governments
+
+
+## Imperial
+
+
+#Revolutionary Empire
+
+
+#Constitutional Monarchy
+
+format.lrsk_imp_rev.1: ""
+
+#format.lrsk_imp_rev.1: "<lrsk_rev_desc><lrsk_imperial_rev> of [This.Capital.System.GetName]"
+
+
+#format.lrsk_imp_rev.2: "<lrsk_rev_desc><lrsk_imperial_rev> of [This.Capital.GetName]"
+
+
+#format.lrsk_imp_rev.3: "<lrsk_rev_desc><lrsk_imperial_rev> of [This.GetSpeciesName]kind"
+
+
+#format.lrsk_imp_rev.4: "<lrsk_rev_desc>[This.GetSpeciesAdj] <lrsk_imperial_rev>"
+
+
+#format.lrsk_imp_rev.5: "[This.GetSpeciesAdj] <lrsk_rev_desc><lrsk_imperial_rev>"
+
+
+## Dictatorial
+
+
+#Republican Protectorate
+
+format.lrsk_dic_rev.1: ""
+format.lrsk_dic_rev.2: ""
+format.lrsk_dic_rev.3: ""
+format.lrsk_dic_rev.4: ""
+format.lrsk_dic_rev.5: ""
+
+## Oligarchic
+
+
+#Republican Directory
+
+format.lrsk_oli_rev.1: ""
+format.lrsk_oli_rev.2: ""
+format.lrsk_oli_rev.3: ""
+format.lrsk_oli_rev.4: ""
+format.lrsk_oli_rev.5: ""
+
+## Democratic
+
+
+#Republic of Virtue
+
+
+#Revolutionary Republic
+
+format.lrsk_dem_rev.1: ""
+format.lrsk_dem_rev.2: ""
+format.lrsk_dem_rev.3: ""
+format.lrsk_dem_rev.4: ""
+format.lrsk_dem_rev.5: ""
+
+## New Purifiers
+
+
+# Doom Horde
+
+format.lrsk_hrd_purifier.1: ""
+format.lrsk_hrd_purifier.2: ""
+format.lrsk_hrd_purifier.3: ""
+
+# Death Cult
+
+format.lrsk_clt_purifier.1: ""
+format.lrsk_clt_purifier.2: ""
+format.lrsk_clt_purifier.3: ""
+
+# Citizen Legion
+
+format.lrsk_cit_purifier.1: ""
+format.lrsk_cit_purifier.2: ""
+format.lrsk_cit_purifier.3: ""
+
+# NazBol
+
+format.lrsk_psr_purifier.1: ""
+format.lrsk_psr_purifier.2: ""
+format.lrsk_psr_purifier.3: ""
+
+## New Materialist
+
+
+# Academy States
+
+format.lrsk_acst.1: ""
+format.lrsk_acst.2: ""
+format.lrsk_acst.3: ""
+
+# Scholastic Commonwealths
+
+format.lrsk_scco.1: ""
+format.lrsk_scco.2: ""
+format.lrsk_scco.3: ""
+
+## New Spiritualist
+
+
+# Cosmic Choir
+
+format.lrsk_coschoir.1: ""
+format.lrsk_coschoir.2: ""
+format.lrsk_coschoir.3: ""
+
+## Others
+
+
+# Noble Republic
+
+format.lrsk_noblerep_gen.1: ""
+format.lrsk_noblerep_gen.2: ""
+format.lrsk_noblerep_gen.3: ""
+format.lrsk_noblerep_gen.4: ""
+format.lrsk_noblerep_gen.5: ""
+
+#Crusader Order
+
+format.lrsk_crusord_gen.1: ""
+format.lrsk_crusord_gen.2: ""
+
+# Citizen Crusade
+
+format.lrsk_cit_crusade.1: ""
+format.lrsk_cit_crusade.2: ""
+format.lrsk_cit_crusade.3: ""
+
+# Agrarian Monarchy
+
+format.lrsk_imp_pes.1: ""
+format.lrsk_imp_pes.2: ""
+format.lrsk_imp_pes.3: ""
+format.lrsk_imp_pes.4: ""
+
+## New Militarist
+
+
+#### IMPROVED
+
+
+## Basic Governments
+
+format.lrsk_imp_gen.1: ""
+format.lrsk_imp_gen.2: ""
+format.lrsk_imp_gen.3: ""
+format.lrsk_imp_gen.4: ""
+format.lrsk_imp_gen.5: ""
+format.lrsk_dic_gen.1: ""
+format.lrsk_dic_gen.2: ""
+format.lrsk_dic_gen.3: ""
+format.lrsk_dic_gen.4: ""
+format.lrsk_dic_gen.5: ""
+format.lrsk_oli_gen.1: ""
+format.lrsk_oli_gen.2: ""
+format.lrsk_oli_gen.3: ""
+format.lrsk_oli_gen.4: ""
+format.lrsk_oli_gen.5: ""
+format.lrsk_dem_gen.1: ""
+format.lrsk_dem_gen.2: ""
+format.lrsk_dem_gen.3: ""
+format.lrsk_dem_gen.4: ""
+format.lrsk_dem_gen.5: ""
+
+## Militarist
+
+format.lrsk_imp_mil.1: ""
+format.lrsk_imp_mil.2: ""
+format.lrsk_imp_mil.3: ""
+format.lrsk_imp_mil.4: ""
+format.lrsk_imp_mil.5: ""
+format.lrsk_dic_mil.1: ""
+format.lrsk_dic_mil.2: ""
+format.lrsk_dic_mil.3: ""
+format.lrsk_dic_mil.4: ""
+format.lrsk_dic_mil.5: ""
+format.lrsk_oli_mil.1: ""
+format.lrsk_oli_mil.2: ""
+format.lrsk_oli_mil.3: ""
+format.lrsk_oli_mil.4: ""
+format.lrsk_oli_mil.5: ""
+format.lrsk_dem_mil.1: ""
+format.lrsk_dem_mil.2: ""
+format.lrsk_dem_mil.3: ""
+format.lrsk_dem_mil.4: ""
+format.lrsk_dem_mil.5: ""
+
+# Special
+
+format.lrsk_dem_war_cul.1: ""
+format.lrsk_dem_war_cul.2: ""
+format.lrsk_dem_war_cul.3: ""
+format.lrsk_oli_serv.1: ""
+format.lrsk_oli_serv.2: ""
+format.lrsk_oli_serv.3: ""
+format.lrsk_inclu_oli_serv.1: ""
+format.lrsk_dem_serv.1: ""
+format.lrsk_dem_serv.2: ""
+format.lrsk_dem_serv.3: ""
+format.lrsk_inclu_dem_serv.1: ""
+
+## Spiritualist
+
+format.lrsk_imp_spi.1: ""
+format.lrsk_imp_spi.2: ""
+format.lrsk_imp_spi.3: ""
+format.lrsk_imp_spi.4: ""
+format.lrsk_imp_spi.5: ""
+format.lrsk_dic_spi.1: ""
+format.lrsk_dic_spi.2: ""
+format.lrsk_dic_spi.3: ""
+format.lrsk_dic_spi.4: ""
+format.lrsk_dic_spi.5: ""
+format.lrsk_oli_spi.1: ""
+format.lrsk_oli_spi.2: ""
+format.lrsk_oli_spi.3: ""
+format.lrsk_oli_spi.4: ""
+format.lrsk_oli_spi.5: ""
+format.lrsk_dem_spi.1: ""
+format.lrsk_dem_spi.2: ""
+format.lrsk_dem_spi.3: ""
+format.lrsk_dem_spi.4: ""
+format.lrsk_dem_spi.5: ""
+format.lrsk_imp_cult.1: ""
+format.lrsk_imp_cult.2: ""
+format.lrsk_imp_cult.3: ""
+format.lrsk_oli_trib.1: ""
+format.lrsk_oli_trib.2: ""
+format.lrsk_oli_trib.3: ""
+
+## Materialist
+
+format.lrsk_imp_mat.1: ""
+format.lrsk_imp_mat.2: ""
+format.lrsk_imp_mat.3: ""
+format.lrsk_imp_mat.4: ""
+format.lrsk_imp_mat.5: ""
+format.lrsk_dic_mat.1: ""
+format.lrsk_dic_mat.2: ""
+format.lrsk_dic_mat.3: ""
+format.lrsk_dic_mat.4: ""
+format.lrsk_dic_mat.5: ""
+format.lrsk_oli_mat.1: ""
+format.lrsk_oli_mat.2: ""
+format.lrsk_oli_mat.3: ""
+format.lrsk_oli_mat.4: ""
+format.lrsk_oli_mat.5: ""
+format.lrsk_dem_mat.1: ""
+format.lrsk_dem_mat.2: ""
+format.lrsk_dem_mat.3: ""
+format.lrsk_dem_mat.4: ""
+format.lrsk_dem_mat.5: ""
+format.lrsk_impdic_tech.1: ""
+format.lrsk_impdic_tech.2: ""
+format.lrsk_impdic_tech.3: ""
+format.lrsk_demoli_tech.1: ""
+format.lrsk_demoli_tech.2: ""
+format.lrsk_demoli_tech.3: ""
+
+## Pacifist
+
+format.lrsk_imp_pac.1: ""
+format.lrsk_imp_pac.2: ""
+format.lrsk_imp_pac.3: ""
+format.lrsk_imp_pac.4: ""
+format.lrsk_imp_pac.5: ""
+format.lrsk_dic_pac.1: ""
+format.lrsk_dic_pac.2: ""
+format.lrsk_dic_pac.3: ""
+format.lrsk_dic_pac.4: ""
+format.lrsk_dic_pac.5: ""
+format.lrsk_oli_pac.1: ""
+format.lrsk_oli_pac.2: ""
+format.lrsk_oli_pac.3: ""
+format.lrsk_oli_pac.4: ""
+format.lrsk_oli_pac.5: ""
+format.lrsk_dem_pac.1: ""
+format.lrsk_dem_pac.2: ""
+format.lrsk_dem_pac.3: ""
+format.lrsk_dem_pac.4: ""
+format.lrsk_dem_pac.5: ""
+
+#Special
+
+format.lrsk_imp_cel.1: ""
+format.lrsk_imp_cel.2: ""
+format.lrsk_imp_cel.3: ""
+format.lrsk_imp_cel.4: ""
+format.lrsk_imp_enl.1: ""
+format.lrsk_imp_enl.2: ""
+format.lrsk_imp_enl.3: ""
+format.lrsk_imp_enl.4: ""
+
+## Fanatical Purifiers
+
+
+# Imperial
+
+format.lrsk_imp_purifier.1: ""
+format.lrsk_imp_purifier.2: ""
+format.lrsk_imp_purifier.3: ""
+
+# Dictatorial
+
+format.lrsk_dic_purifier.1: ""
+format.lrsk_dic_purifier.2: ""
+format.lrsk_dic_purifier.3: ""
+
+# Oligarchic
+
+format.lrsk_oli_purifier.1: ""
+format.lrsk_oli_purifier.2: ""
+format.lrsk_oli_purifier.3: ""
+
+# Democratic
+
+format.lrsk_dem_purifier.1: ""
+format.lrsk_dem_purifier.2: ""
+format.lrsk_dem_purifier.3: ""
+
+## Megacorporations
+
+
+# Megacorporations
+
+format.lrsk_megacorp.1: ""
+format.lrsk_megacorp.2: ""
+format.lrsk_megacorp.3: ""
+
+# Trade Leagues
+
+format.lrsk_trade_league.1: ""
+format.lrsk_trade_league.2: ""
+format.lrsk_trade_league.3: ""
+
+# Criminal Oganizations
+
+format.lrsk_crimeorg.1: ""
+format.lrsk_crimeorg.2: ""
+format.lrsk_crimeorg.3: ""
+
+### GENERIC COMBOS
+
+
+## Imperial Generic
+
+format.lrsk_gen_imp.1: ""
+format.lrsk_gen_imp.2: ""
+format.lrsk_gen_imp.3: ""
+format.lrsk_gen_imp.4: ""
+format.lrsk_gen_imp.5: ""
+format.lrsk_gen_imp.6: ""
+format.lrsk_gen_imp.7: ""
+format.lrsk_gen_imp.8: ""
+format.lrsk_gen_imp.9: ""
+format.lrsk_gen_imp.10: ""
+format.lrsk_gen_imp.11: ""
+format.lrsk_gen_imp.12: ""
+format.lrsk_gen_imp.13: ""
+
+## Dictatorial Generic
+
+format.lrsk_gen_dic.1: ""
+format.lrsk_gen_dic.2: ""
+format.lrsk_gen_dic.3: ""
+format.lrsk_gen_dic.4: ""
+format.lrsk_gen_dic.5: ""
+format.lrsk_gen_dic.6: ""
+format.lrsk_gen_dic.7: ""
+format.lrsk_gen_dic.8: ""
+format.lrsk_gen_dic.9: ""
+format.lrsk_gen_dic.10: ""
+format.lrsk_gen_dic.11: ""
+format.lrsk_gen_dic.12: ""
+format.lrsk_gen_dic.13: ""
+
+## Oligarchic Generic
+
+format.lrsk_gen_oli.1: ""
+format.lrsk_gen_oli.2: ""
+format.lrsk_gen_oli.3: ""
+format.lrsk_gen_oli.4: ""
+format.lrsk_gen_oli.5: ""
+format.lrsk_gen_oli.6: ""
+format.lrsk_gen_oli.7: ""
+format.lrsk_gen_oli.8: ""
+format.lrsk_gen_oli.9: ""
+format.lrsk_gen_oli.10: ""
+format.lrsk_gen_oli.11: ""
+format.lrsk_gen_oli.12: ""
+format.lrsk_gen_oli.13: ""
+
+## Democratic Generic
+
+
+# By species
+
+format.lrsk_gen_dem.1: ""
+format.lrsk_gen_dem.2: ""
+format.lrsk_gen_dem.3: ""
+format.lrsk_gen_dem.4: ""
+format.lrsk_gen_dem.5: ""
+format.lrsk_gen_dem.6: ""
+format.lrsk_gen_dem.7: ""
+
+# By home star
+
+format.lrsk_gen_dem.8: ""
+format.lrsk_gen_dem.9: ""
+format.lrsk_gen_dem.10: ""
+
+# By homeworld
+
+format.lrsk_gen_dem.11: ""
+format.lrsk_gen_dem.12: ""
+format.lrsk_gen_dem.13: ""
